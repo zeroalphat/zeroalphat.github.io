@@ -13,3 +13,11 @@ Twitter:@taition_hoge
 
 # 研究分野
 network ,information visualization, information security
+
+# Activities
+## 2016
+- 北海道セキュリティミニキャンプ　参加
+
+## 2017
+- 4月 SecHack365 参加決定
+- 5月 Hardening 1010 Cash Flow CTC賞　受賞
