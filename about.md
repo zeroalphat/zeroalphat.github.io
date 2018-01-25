@@ -12,4 +12,4 @@ Kanazawa Institute of Technology B2
 Twitter:@taition_hoge
 
 # 研究分野
-network ,information visualization, informationsecurity
+network ,information visualization, information security
