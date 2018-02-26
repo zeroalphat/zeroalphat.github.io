@@ -9,7 +9,7 @@ Taichi Takemura
 
 Kanazawa Institute of Technology B2
 
-Twitter:[@taiton_hoge](https://twitter.com/taiton_hoge)
+Twitter:[@taiton_hoge](https://twitter.com/taiton_hoge)  
 Blog:[yotiyotiarukuのブログ](http://yotiyotiaruku.hatenablog.com/)
 
 # 研究分野
