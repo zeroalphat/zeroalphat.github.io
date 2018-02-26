@@ -9,7 +9,8 @@ Taichi Takemura
 
 Kanazawa Institute of Technology B2
 
-Twitter:@taition_hoge
+Twitter:[@taiton_hoge][1]
+[1]:https://twitter.com/taiton_hoge
 
 # 研究分野
 network ,information visualization, information security
