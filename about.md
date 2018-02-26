@@ -22,4 +22,4 @@ network ,information visualization, information security
 ## 2017
 - 4月 SecHack365 参加決定
 - 5月 Hardening 1010 Cash Flow CTC賞　受賞
--
+- 11月 [CODE BLUE　学生スタッフに参加](http://yotiyotiaruku.hatenablog.com/entry/2018/01/29/113805)
