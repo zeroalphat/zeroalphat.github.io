@@ -10,6 +10,7 @@ Taichi Takemura
 Kanazawa Institute of Technology B2
 
 Twitter:[@taiton_hoge](https://twitter.com/taiton_hoge)
+Blog:[yotiyotiarukuのブログ](http://yotiyotiaruku.hatenablog.com/)
 
 # 研究分野
 network ,information visualization, information security
@@ -21,3 +22,4 @@ network ,information visualization, information security
 ## 2017
 - 4月 SecHack365 参加決定
 - 5月 Hardening 1010 Cash Flow CTC賞　受賞
+-
