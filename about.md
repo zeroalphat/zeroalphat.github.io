@@ -37,6 +37,7 @@ network , security
 - 8月25日 [ICTSC2018 一次予選 3位](https://icttoracon.net/archives/6950)
 - 8月27日~9月21日 DMM.com インターン
 - 9月10日~9月14日 Yahoo!JAPAN インターン
+- 9月23日~9月25日 コロプラ インターン
 
 
 
