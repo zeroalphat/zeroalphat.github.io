@@ -34,7 +34,7 @@ network , security
 - 4月 [セチャコン2018（SECHACKCON2017）展示](https://2017.seccon.jp/news/2018sechackcon2017.html)
 - 8月6日~8月10日 面白法人カヤック インターン
 - 8月20日~8月24日 Cybozu インターン
-- 8月25日 ICTSC2018 一次予選 3位
+- 8月25日 [ICTSC2018 一次予選 3位](https://icttoracon.net/archives/6950)
 - 8月27日~9月21日 DMM.com インターン
 - 9月10日~9月14日 Yahoo!JAPAN インターン
 
