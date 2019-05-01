@@ -38,7 +38,7 @@ network , security
 
 - 2月 [SECCON YOROZU 展示](https://2017.seccon.jp/news/summary/seccon-20171/seccon2017.html)
 - 4月 [セチャコン2018（SECHACKCON2017）展示](https://2017.seccon.jp/news/2018sechackcon2017.html)
-- 8月6日~8月10日 面白法人カヤック インターン
+- 8月6日~8月10日 [面白法人カヤック インターン](https://yotiyotiaruku.hatenablog.com/entry/2018/12/16/200127)
 - 8月20日~8月24日 Cybozu インターン
 - 8月25日 [ICTSC2018 一次予選 3位](https://icttoracon.net/archives/6950)
 - 8月27日~9月21日 DMM.com インターン
@@ -47,7 +47,7 @@ network , security
 
 ### 2019
 
-- 2月4日~3月1日 NTT セキュアプラットフォーム研究所　インターンシップ
+- 2月4日~3月1日 [NTT セキュアプラットフォーム研究所　インターンシップ](https://yotiyotiaruku.hatenablog.com/entry/2019/04/21/085449)
 - ICTトラブルシューティングコンテスト2018 本戦 Rank: 6st
 - 3月4日~3月22日 RECRUIT インターンシップ
 
