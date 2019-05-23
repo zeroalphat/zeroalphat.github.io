@@ -8,7 +8,7 @@ permalink: /about/
 
 Taichi Takemura
 
-Kanazawa Institute of Technology B3
+Kanazawa Institute of Technology B4
 
 Twitter:[@taiton_hoge](https://twitter.com/taiton_hoge)  
 Blog:[yotiyotiarukuのブログ](http://yotiyotiaruku.hatenablog.com/)
@@ -50,6 +50,3 @@ network , security
 - 2月4日~3月1日 [NTT セキュアプラットフォーム研究所　インターンシップ](https://yotiyotiaruku.hatenablog.com/entry/2019/04/21/085449)
 - ICTトラブルシューティングコンテスト2018 本戦 Rank: 6st
 - 3月4日~3月22日 RECRUIT インターンシップ
-
-
-
