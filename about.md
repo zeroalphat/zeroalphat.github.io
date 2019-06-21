@@ -50,3 +50,5 @@ network , security
 - 2月4日~3月1日 [NTT セキュアプラットフォーム研究所　インターンシップ](https://yotiyotiaruku.hatenablog.com/entry/2019/04/21/085449)
 - ICTトラブルシューティングコンテスト2018 本戦 Rank: 6st
 - 3月4日~3月22日 RECRUIT インターンシップ
+- 6月 Shownet Team Member 会期
+- 6月1日~現在 National Institute of Information and Communications Technology(NICT) research assistant 
