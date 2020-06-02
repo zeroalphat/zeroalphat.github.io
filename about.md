@@ -6,7 +6,7 @@ permalink: /about/
 
 # 自己紹介
 
-Taichi Takemura
+Taichi Takemura  
 The University of Electro-Communications M1
 
 Twitter: [@taiton_hoge](https://twitter.com/taiton_hoge)  
