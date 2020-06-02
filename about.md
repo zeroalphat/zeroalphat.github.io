@@ -7,8 +7,7 @@ permalink: /about/
 # 自己紹介
 
 Taichi Takemura
-
-Kanazawa Institute of Technology B4
+The University of Electro-Communications M1
 
 Twitter: [@taiton_hoge](https://twitter.com/taiton_hoge)  
 Blog: [yotiyotiaruku のブログ](http://yotiyotiaruku.hatenablog.com/)
@@ -16,6 +15,15 @@ Blog: [yotiyotiaruku のブログ](http://yotiyotiaruku.hatenablog.com/)
 ## 研究分野
 
 network,security
+
+## 学歴
+
+金沢工業大学 工学部情報工学科  
+2016 年 4 月入学，2020 年 3 月卒業
+
+電気通信大学 情報学専攻  
+修士課程  
+2020 年 4 月入学，2022 年 3 月修了見込み
 
 ## Activities
 
