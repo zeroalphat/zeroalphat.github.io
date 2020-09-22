@@ -9,7 +9,7 @@ permalink: /about/
 Taichi Takemura
 The University of Electro-Communications M1
 
-Twitter: [@taiton_hoge](https://twitter.com/taiton_hoge)  
+Twitter: [@zer0alpha0](https://twitter.com/zer0alpha0)  
 Blog: [yotiyotiaruku のブログ](http://yotiyotiaruku.hatenablog.com/)
 
 ## 研究分野
@@ -58,7 +58,11 @@ network,security
 
 - 2 月 4 日~3 月 1 日 [NTT セキュアプラットフォーム研究所　インターンシップ](https://yotiyotiaruku.hatenablog.com/entry/2019/04/21/085449)
 - ICT トラブルシューティングコンテスト 2018 本戦 Rank: 6st
-- 3 月 4 日~3 月 22 日 RECRUIT インターンシップ
+- 3 月 4 日~3 月 22 日 RECRUIT データサイエンティストコース インターンシップ
 - 6 月 Shownet Team Member 会期
 - [セキュリティミニキャンプ 専門講座 講師](https://www.security-camp.or.jp/minicamp/ishikawa2019.html)
-- 6 月 1 日~3 月 31 日 National Institute of Information and Communications Technology(NICT) research assistant
+- 6 月 1 日~3 月 31 日 情報通信研究機構 リサーチアシスタント
+
+### 2020
+
+- 6 月~現在 Kadokawa Connected アルバイト
