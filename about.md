@@ -65,4 +65,5 @@ network,security
 
 ### 2020
 
-- 6 月~現在 Kadokawa Connected アルバイト
+- 6 月~12 月 Kadokawa Connected アルバイト
+- 9 月 9 日~9 月 30 日 Akatsuki インターンシップ
