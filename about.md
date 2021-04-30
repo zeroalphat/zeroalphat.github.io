@@ -14,7 +14,7 @@ Blog: [yotiyotiaruku のブログ](http://yotiyotiaruku.hatenablog.com/)
 
 ## 研究分野
 
-network,security
+system security，TEE(Trusted Execution Environment)
 
 ## 学歴
 
