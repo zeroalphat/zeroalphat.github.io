@@ -1,0 +1,40 @@
+baseURL = 'https://zeroalphat.github.io'
+languageCode = 'ja'
+title = 'Taichi Takemura'
+theme = 'PaperMod'
+
+[params]
+description = "I study security and network."
+author = "Taichi Takemura"
+email = "takemura[at]net.lab.uec.ac.jp"
+
+[params.profileMode]
+enabled = true
+title = "Taichi Takemura"
+subtitle = "I study security and network."
+imageUrl = "img/network.jpg"
+imageTitle = "Network"
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/zer0alpha0"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/zeroalphat"
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:takemura[at]net.lab.uec.ac.jp"
+
+[menu]
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 10
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
