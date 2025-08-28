@@ -70,7 +70,7 @@ Blog: [yotiyotiaruku のブログ](http://yotiyotiaruku.hatenablog.com/)
 
 - [ICANN76 参加](https://www.nic.ad.jp/ja/materials/icann-report/20230412-ICANN/icann66-7-takemura.pdf)
 
-### publications
+## publications
 
 - [TEE-PA: TEE Is a Cornerstone for Remote Provenance Auditing on Edge Devices With Semi-TCB](https://ieeexplore.ieee.org/document/10436677) (IEEE Access)
 - [Kubernetes用プロファイリングツール necoperfの紹介](https://blog.cybozu.io/entry/2024/03/25/100000)
